@@ -1,3 +1,3 @@
 # PluginCAMS
-Plugin CAMS
+Plugin CAMS <br/>
 Mã SHA256: fa2bd8da16b30bf89943baceeb5e7c59606340fe9838f81004b2a75519143de8
